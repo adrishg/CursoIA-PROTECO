@@ -1,6 +1,6 @@
 ## Curso de Inteligencia Artifical
 ### PROTECO, Facultad de Ingeniería UNAM
-<img src="https://drive.google.com/uc?export=view&id=18vqiGjeBJyNzqKKiqkmTG-UifDkWRpDa">
+![image](https://user-images.githubusercontent.com/19462113/116952777-1e8fc880-ac51-11eb-86ab-cadbc1238030.png)
 
 
 ## Motivation / ?
