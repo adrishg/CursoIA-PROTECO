@@ -1,6 +1,6 @@
 ## Curso de Inteligencia Artifical
 ### PROTECO, Facultad de Ingeniería UNAM
-<img src="https://drive.google.com/file/d/18vqiGjeBJyNzqKKiqkmTG-UifDkWRpDa/view" align="right"
+<img src="https://drive.google.com/uc?export=view&id=18vqiGjeBJyNzqKKiqkmTG-UifDkWRpDa" align="right"
      alt="logo-protaco" width="120" height="178">
 
 
